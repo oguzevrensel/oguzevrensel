@@ -1,4 +1,6 @@
 ### Hi there 👋
+### I am final year Software Engineering student at Kyiv Polytechnic University in Ukraine. 
+I've special interest in web applications and web technologies . I developed myself at the front-end and Back-end fields. I'm working with Html5, Css3, Bootstrap, Javascript, Typescript, REACT in JSX And TSX formats, for the Back-End; Node Js and Java with it's framework: Spring. I am actively producing projects. My mother language is Turkish and I can speak Russian at B2 and English at B1 levels.
 
 <!--
 **oguzevrensel/oguzevrensel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
