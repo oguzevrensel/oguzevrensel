@@ -5,7 +5,7 @@
 
 ## <samp>Hello World!</samp> <img src="https://github.com/mupezzuol/mupezzuol/blob/master/assets/earth.gif" width="22px" height="22px">
 
-<samp>I'm Oğuz Evrensel and I'm from Turkey, currently I'm a last year Software Engineering student in Kyiv Polytechnic University, Ukraine. I'm passionate about solving problems with technology and creating different solutions.
+<samp>My name is Oğuz and I am from Turkey, currently I am in my final year at Software Engineering department in Kyiv Polytechnic University, Ukraine. I am passionate about solving problems with technology and creating different solutions.
 
 <samp>I talk about technology, programming, soft skills, career challenges, tips and more. I always try to help people as much as possible, because a phrase I carry with me is __"people need people".__</samp>
   
