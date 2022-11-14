@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am in my final year at Software <br>Engineering department at Kyiv Polytechnic University in Ukraine, that’s super passionate about technology, solving problems and creating different solutions. If I had to describe my own job, I would call it “Solving the Problems”. <br>I'm also be happy when I meet new<br> friends, also I love to travel and get to <br>know new places and cultures.<br>
+I am in my final year at Software Engineering department at Kyiv Polytechnic University in Ukraine, that’s super passionate about technology, solving problems and creating different solutions. If I had to describe my own job, I would call it “Solving the Problems”. <br>I'm also be happy when I meet new<br> friends, also I love to travel and get to <br>know new places and cultures.<br>
 
 
 ## 🌐 Socials:
