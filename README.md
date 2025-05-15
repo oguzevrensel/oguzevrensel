@@ -1,5 +1,23 @@
 # 💫 About Me:
-I am a final year student at the Software Engineering department of Kyiv Polytechnic University in Ukraine, <br>with a passion for solving complex problems. As a native Turkish speaker, I am also fluent in Russian and English.
+Hi, I’m Oguz Evrensel, a Software Engineering graduate with over 3 years of professional experience across the TIC (Testing, Inspection, and Certification) and E-Commerce industries.
+
+Throughout my career, I have worked on diverse and challenging projects in Turkey, Russia, Hong Kong, China, Kuwait, Pakistan, Canada, and Ukraine, specializing in ASP.NET, C#, Web API, MVC, React, DevExpress WebForms, and Windows Service applications.
+
+I have honed my skills in Back-End and Front-End development, database management, security vulnerability resolution, DevOps process establishment, and advanced problem-solving by participating in a wide range of projects.
+
+My native language is Turkish, and I am also proficient in English and Russian.
+
+You can explore my public projects on GitHub and read my articles on Medium — feel free to take a look!
+
+I believe the key to success lies in passion, determination, courage, and, most importantly, patience.
+Loving what you do and striving to be the best are the principles I follow in every project.
+
+I am always eager to research, learn, and expand my knowledge as part of my professional journey.
+
+Looking forward to collaborating with you!
+
+Best Regards,
+Oguz Evrensel
 
 
 ## 🌐 Socials:
